@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Darshan</h1>
-<h3 align="center">A passionate web developer from India</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on [LAC website](https://lac-website.vercel.app/)<br>👯 I’m looking to collaborate on web applications<br>🌱 I’m currently learning <b>Next JS, Typescript</b><br>💬 Ask me about <b>MERN</b><br>⚡ Fun fact: The original name of JavaScript was 'Mocha'.
