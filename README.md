@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Darshan</h1>
 
 # 💫 About Me:
-🔭 I’m currently working on [LAC website](https://lac-website.vercel.app/)<br>👯 I’m looking to collaborate on web applications<br>🌱 I’m currently learning <b>Next JS, Typescript</b><br>💬 Ask me about <b>MERN</b><br>⚡ Fun fact: The original name of JavaScript was 'Mocha'.<br>📫 How to reach me **darshanbpatel1904@gmail.com**
+🔭 I’m currently working on [Prompt_IQ](https://prompt-iq-bbzo.vercel.app/)<br>👯 I’m looking to collaborate on web applications<br>🌱 I’m currently learning <b>Next JS, Typescript</b><br>💬 Ask me about <b>MERN</b><br>⚡ Fun fact: The original name of JavaScript was 'Mocha'.<br>📫 How to reach me **darshanbpatel1904@gmail.com**
 
 
 ## 🌐 Socials:
