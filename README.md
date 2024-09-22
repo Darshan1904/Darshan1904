@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Darshan</h1>
 
 # 💫 About Me:
-🔭 I’m currently working on [Custom Craft](https://github.com/Darshan1904/Dotslash-7)<br>👯 I’m looking to collaborate on web applications<br>🌱 I’m currently learning <b>Next JS, Typescript</b><br>💬 Ask me about <b>Web Development</b>, <b>Motoko</b>, <b>ICP(Web 3.0)</b><br>⚡ Fun fact: The original name of JavaScript was 'Mocha'.<br>📫 How to reach me **darshanbpatel1904@gmail.com**
+🔭 I’m currently working on [Custom Craft](https://github.com/Darshan1904/Dotslash-7)<br>👯 I’m looking to collaborate on web applications<br>🌱 I’m currently learning <b>Rust</b><br>💬 Ask me about <b>Web Development</b>, <b>Motoko</b>, <b>ICP(Web 3.0)</b><br>⚡ Fun fact: The original name of JavaScript was 'Mocha'.<br>📫 How to reach me **darshanbpatel1904@gmail.com**
 
 
 ## 🌐 Socials:
